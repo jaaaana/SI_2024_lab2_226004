@@ -1,1 +1,2 @@
-# SI_2024_lab2_226004
+Jana Hristova 226004
+!["graph"](cfg.png)
